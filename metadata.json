@@ -1,0 +1,5 @@
+{
+  "name": "El Clásico Guess: The Historical Showdown",
+  "description": "A historical football (soccer) trivia game where you guess the winner of El Clásico from a random year, with results provided by a simulated AI historian.",
+  "requestFramePermissions": []
+}
